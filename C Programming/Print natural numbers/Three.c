@@ -2,7 +2,7 @@
 
 int main(){
   int num, i;
-  printf(" Enter a limit number to print specific numbers: ");
+  printf(" Enter a limit number to print total specific numbers: ");
   scanf("%d", & num);
   for (i = 0; i <= num; i++) {
     printf("\n");
