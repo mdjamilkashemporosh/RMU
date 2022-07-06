@@ -1,4 +1,4 @@
-# Getting Started with C Programming LESSON 1 | সি প্রোগ্রামিং পাঠ 1 
+# Getting Started with C Programming Lesson 1 | সি প্রোগ্রামিং পাঠ 1 
 
 You must have Codeblocks Software or something like that in order to run this file. [Codeblocks Software](https://github.com/facebook/create-react-app). | 
 
